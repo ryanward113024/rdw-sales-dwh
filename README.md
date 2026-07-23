@@ -1,4 +1,4 @@
-# Data Warehouse Project
+***Data Warehouse Project***
 
 Welcome to my **Data Warehouse Project** Repository!
 
@@ -11,20 +11,21 @@ Designed as a portfolio project that highlights industry best practices in data 
 Building the Data Warehouse (Data Engineering)
 
 **Objective:**
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 
-**Specifications**
+**Specifications:**
 
-**Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
+**Data Sources:**: Import data from two source systems (ERP and CRM) provided as CSV files.
 
-**Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+**Data Quality:** Cleanse and resolve data quality issues prior to analysis.
 
-**Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+**Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
 
-**Scope**: Focus on the latest dataset only; historization of data is not required.
+**Scope:** Focus on the latest dataset only; historization of data is not required.
 
-**Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+**Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 **BI:** Analytics & Reporting (Data Analysis)
 
