@@ -6,7 +6,7 @@ Designed as a portfolio project that highlights industry best practices in data 
 
 ###Project Requirements
 Building the Data Warehouse (Data Engineering)
-Objective
+**Objective**
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 
@@ -27,9 +27,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-##License This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+##License 
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ##About Me
+
+
 Hello all! I am **Ryan Ward**. I'm a data engineer still early in my journey, but I love digging into how data models and architecture come together behind the scenes. Python is my go-to for getting things done, and I work regularly with Microsoft SQL Server, PostgreSQL, and MySQL. I'm the kind of person who wants to understand why a system is built a certain way, not just how to use it. This data warehouse project is part of that — a chance to get my hands dirty and level up as an engineer.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
